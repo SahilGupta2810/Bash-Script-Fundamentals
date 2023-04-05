@@ -40,3 +40,15 @@ This repository is a collection of all fundamental topics in bash.
 
 
         ![image](https://user-images.githubusercontent.com/65444832/230171212-44dd1eab-0d56-4bdb-8e1b-a34d0be1491e.png)
+        
+- ***Array***
+    - Create a *arrays.sh* file and edit is using nano text editor
+        
+        ![2](https://user-images.githubusercontent.com/65444832/230183440-8b78f183-0903-4177-8124-dbf4abec6ed5.png)
+
+        
+    - Add the following script to it
+    
+        ![1](https://user-images.githubusercontent.com/65444832/230183517-544b8d11-4ff5-4d67-8266-6382c0b84cdc.png)
+   
+    
